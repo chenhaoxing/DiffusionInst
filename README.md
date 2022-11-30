@@ -2,7 +2,6 @@
 
 **DiffusionInst is the first work of diffusion model for instance segmentation.**
 
-#![](teaser.png)
 
 > [**DiffusionInst: Diffusion Model for Instance Segmentation**](https://arxiv.org/abs/2212.xxxx)               
 > [Zhangxuan Gu](https://scholar.google.com/citations?user=Wkp3s68AAAAJ&hl=zh-CN&oi=ao), [Haoxing Chen](https://chenhaoxing.github.io/), Zhuoer Xu, Jun Lan, Changhua Meng, [Weiqiang Wang*](https://scholar.google.com/citations?hl=zh-CN&user=yZ5iffAAAAAJ) 
