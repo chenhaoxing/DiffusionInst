@@ -13,7 +13,7 @@ Code will be public in 3 weeks.
 Method | Mask AP (1 step) | Mask AP (4 step) 
 --- |:---:|:---:
 COCO-Res50 | 35.1| 35.5 
-
+LVIS-Res50 | 22.3| - 
 
 ## Citing DiffusionInst
 
