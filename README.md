@@ -7,19 +7,8 @@
 > [Zhangxuan Gu](https://scholar.google.com/citations?user=Wkp3s68AAAAJ&hl=zh-CN&oi=ao), [Haoxing Chen](https://chenhaoxing.github.io/), Zhuoer Xu, Jun Lan, Changhua Meng, [Weiqiang Wang*](https://scholar.google.com/citations?hl=zh-CN&user=yZ5iffAAAAAJ) 
 > *[arXiv 2212.xxxx](https://arxiv.org/abs/2212.xxxxx)*  
 
-## Updates
-- (12/2022) Code is released.
 
-
-## Getting Started
-
-The installation instruction and usage are in [Getting Started with DiffusionInst](GETTING_STARTED.md).
-
-
-## License
-
-This project is under the CC-BY-NC 4.0 license. See [LICENSE](LICENSE) for details.
-
+## Code will be public in 3 weeks.
 
 ## Citing DiffusionInst
 
