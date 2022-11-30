@@ -11,7 +11,7 @@ Code will be public in 3 weeks.
 
 ## Models
 Method | Mask AP (1 step) | Mask AP (4 step) 
---- |:---:|:---:|:---:
+--- |:---:|:---:
 COCO-Res50 | 35.1| 35.5 
 
 
