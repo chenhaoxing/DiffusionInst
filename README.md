@@ -9,6 +9,11 @@ Code will be public in 3 weeks.
 > *[arXiv 2212.xxxx](https://arxiv.org/abs/2212.xxxxx)*  
 
 
+## Models
+Method | Mask AP (1 step) | Mask AP (4 step) 
+--- |:---:|:---:|:---:
+COCO-Res50 | 35.1| 35.5 
+
 
 ## Citing DiffusionInst
 
