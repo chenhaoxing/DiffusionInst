@@ -8,7 +8,7 @@
 > *[arXiv 2212.xxxx](https://arxiv.org/abs/2212.xxxxx)*  
 
 
-## Code will be public in 3 weeks.
+Code will be public in 3 weeks.
 
 ## Citing DiffusionInst
 
