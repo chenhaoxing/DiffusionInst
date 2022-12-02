@@ -1,4 +1,4 @@
-_BASE_: "diffdet.coco.res50.yaml"
+_BASE_: "diffinst.coco.res50.yaml"
 MODEL:
   MASK_ON: True
 SOLVER:
