@@ -26,7 +26,7 @@ from typing import List, Union
 import logging
 from detectron2.data.catalog import MetadataCatalog
 
-relative_coordinate_feature_generator
+
 def check_metadata_consistency(key, dataset_names):
     """
     Check that the datasets have consistent metadata.
