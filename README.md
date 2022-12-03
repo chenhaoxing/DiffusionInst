@@ -33,3 +33,11 @@ If you use DiffusionInst in your research or wish to refer to the baseline resul
       journal={arXiv preprint arXiv:2212.xxxxx},
       year={2022}
 }
+
+### Our code is based on [DiffusionDet](https://github.com/ShoufaChen/DiffusionDet).
+
+## Contacts
+Please feel free to contact us if you have any problems.
+
+Email: [haoxingchen@smail.nju.edu.cn](haoxingchen@smail.nju.edu.cn) or [guzhangxuan.gzx@antgroup.com](guzhangxuan.gzx@antgroup.com)
+
