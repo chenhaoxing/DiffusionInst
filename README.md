@@ -37,7 +37,7 @@ If you use DiffusionInst in your research or wish to refer to the baseline resul
 }
 ```
 ## Acknowledgement
-Our pretraining codes and configs follow [DiffusionDet](https://github.com/ShoufaChen/DiffusionDet).
+Many thanks to the nice work of DiffusionDet @[ShoufaChen](https://github.com/ShoufaChen). Our codes and configs follow [DiffusionDet](https://github.com/ShoufaChen/DiffusionDet).
 
 ## Contacts
 Please feel free to contact us if you have any problems.
