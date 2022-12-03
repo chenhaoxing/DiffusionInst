@@ -33,8 +33,9 @@ If you use DiffusionInst in your research or wish to refer to the baseline resul
       journal={arXiv preprint arXiv:2212.xxxxx},
       year={2022}
 }
-
-### Our code is based on [DiffusionDet](https://github.com/ShoufaChen/DiffusionDet).
+```
+## Acknowledgement
+Our pretraining codes and configs follow [DiffusionDet](https://github.com/ShoufaChen/DiffusionDet).
 
 ## Contacts
 Please feel free to contact us if you have any problems.
