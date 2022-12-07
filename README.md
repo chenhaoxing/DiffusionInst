@@ -6,7 +6,7 @@ We hope our work could serve as a simple yet effective baseline, which could ins
 
 
 > [**DiffusionInst: Diffusion Model for Instance Segmentation**](https://arxiv.org/abs/2212.02773)               
-> Zhangxuan Gu, Haoxing Chen, Zhuoer Xu, Jun Lan, Changhua Meng, Weiqiang Wang 
+> [Zhangxuan Gu](https://scholar.google.com/citations?user=Wkp3s68AAAAJ&hl=zh-CN&oi=ao), [Haoxing Chen](https://scholar.google.com/citations?hl=zh-CN&pli=1&user=BnS7HzAAAAAJ), Zhuoer Xu, Jun Lan, Changhua Meng, [Weiqiang Wang](https://scholar.google.com/citations?hl=zh-CN&user=yZ5iffAAAAAJ) 
 > *[arXiv 2212.02773](https://arxiv.org/abs/2212.02773)*  
 
 ## Getting Started
