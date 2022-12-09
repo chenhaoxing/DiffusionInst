@@ -10,8 +10,8 @@ We hope our work could serve as a simple yet effective baseline, which could ins
 > *[arXiv 2212.02773](https://arxiv.org/abs/2212.02773)*  
 
 ## Todo list:
-- &check; Release source code.
-- &#9744; Adding directly filter denoising.
+- [x] Release source code.
+- [ ] Adding directly filter denoising.
 
 
 ## Getting Started
