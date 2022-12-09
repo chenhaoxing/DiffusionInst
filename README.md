@@ -9,6 +9,11 @@ We hope our work could serve as a simple yet effective baseline, which could ins
 > [Zhangxuan Gu](https://scholar.google.com/citations?user=Wkp3s68AAAAJ&hl=zh-CN&oi=ao), [Haoxing Chen](https://scholar.google.com/citations?hl=zh-CN&pli=1&user=BnS7HzAAAAAJ), Zhuoer Xu, Jun Lan, Changhua Meng, [Weiqiang Wang](https://scholar.google.com/citations?hl=zh-CN&user=yZ5iffAAAAAJ) 
 > *[arXiv 2212.02773](https://arxiv.org/abs/2212.02773)*  
 
+## To do list:
+- &check; Release source code.
+- &#9744; Adding directly filter denoising
+
+
 ## Getting Started
 The installation instruction and usage are in [Getting Started with DiffusionInst](GETTING_STARTED.md).
 
