@@ -378,7 +378,7 @@ class SetCriterionDynamicK(nn.Module):
         losses = {}
         if num_mask>0:
             loss_mask = loss_mask / num_mask
-            losses = {'loss_masks': loss_mask}
+            losses = {'loss_masks': 5*loss_mask}
         else:
             losses = {'loss_masks': outputs['pred_boxes'].sum() * 0}
 
