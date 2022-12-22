@@ -1,5 +1,8 @@
 ## DiffusionInst: Diffusion Model for Instance Segmentation
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/diffusioninst-diffusion-model-for-instance/instance-segmentation-on-lvis-v1-0-val)](https://paperswithcode.com/sota/instance-segmentation-on-lvis-v1-0-val?p=diffusioninst-diffusion-model-for-instance)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/diffusioninst-diffusion-model-for-instance/instance-segmentation-on-coco)](https://paperswithcode.com/sota/instance-segmentation-on-coco?p=diffusioninst-diffusion-model-for-instance)
+
 **DiffusionInst is the first work of diffusion model for instance segmentation.**
 ![](figure/arch.jpeg)
 We hope our work could serve as a simple yet effective baseline, which could inspire designing more efficient diffusion frameworks for challenging discriminative tasks.
