@@ -24,9 +24,9 @@ The installation instruction and usage are in [Getting Started with DiffusionIns
 ## Model Performance
 Method | Mask AP (1 step) | Mask AP (4 step) 
 --- |:---:|:---:
-COCO-Res50 | 37.3| 37.5 
-COCO-Res101 | 41.0| 41.1 
-COCO-Swin-B| 46.6| 46.8
+COCO-val-Res50 | 37.3| 37.5 
+COCO-val-Res101 | 41.0| 41.1 
+COCO-val-Swin-B| 46.6| 46.8
 LVIS-Res50 | 22.3| - 
 LVIS-Res101| 27.0| - 
 LVIS-Swin-B| 36.0| - 
