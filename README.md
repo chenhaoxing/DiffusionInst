@@ -14,6 +14,7 @@ We hope our work could serve as a simple yet effective baseline, which could ins
 
 ## Todo list:
 - [x] Release source code.
+- [x] Hyper-paramters tuning.
 - [ ] Adding directly filter denoising.
 
 
@@ -23,12 +24,15 @@ The installation instruction and usage are in [Getting Started with DiffusionIns
 ## Model Performance
 Method | Mask AP (1 step) | Mask AP (4 step) 
 --- |:---:|:---:
-COCO-Res50 | 35.1| 35.5 
-COCO-Res101 | 36.3| 36.5 
-COCO-Swin-B| 44.0| 44.2
+COCO-Res50 | 37.3| 37.5 
+COCO-Res101 | 41.0| 41.1 
+COCO-Swin-B| 46.6| 46.8
 LVIS-Res50 | 22.3| - 
-LVIS-Res101| 24.6| - 
-LVIS-Swin-B| 34.8| - 
+LVIS-Res101| 27.0| - 
+LVIS-Swin-B| 36.0| - 
+COCO-testdev-Res50 | 37.1| - 
+COCO-testdev-Res101 | 41.5| -
+COCO-testdev-Swin-B| 47.6| -
 
 ![](figure/visual.jpeg)
 
