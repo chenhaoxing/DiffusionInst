@@ -522,8 +522,8 @@ class DiffusionInst(nn.Module):
             output = {'pred_logits': outputs_class[-1], 'pred_boxes': outputs_coord[-1], 'pred_kernels': outputs_kernel[-1], 'mask_feat':mask_feat}
 
             if self.deep_supervision:
-                output['aux_outputs'] = [{'pred_logits': a, 'pred_boxes': b}
-                                         for a, b in zip(outputs_class[:-1], outputs_coord[:-1])]
+                 output['aux_outputs'] = [{'pred_logits': a, 'pred_boxes': b, 'pred_kernels':c, 'mask_feat':mask_feat}
+                                         for a, b, c in zip(outputs_class[:-1], outputs_coord[:-1],outputs_kernel[:-1])]
 
             loss_dict = self.criterion(output, targets)
             weight_dict = self.criterion.weight_dict
