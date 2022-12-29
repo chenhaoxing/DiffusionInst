@@ -27,12 +27,14 @@ Method | Mask AP (1 step) | Mask AP (4 step)
 COCO-val-Res50 | 37.3| 37.5 
 COCO-val-Res101 | 41.0| 41.1 
 COCO-val-Swin-B| 46.6| 46.8
+COCO-val-Swin-L| 47.8| 47.8
 LVIS-Res50 | 22.3| - 
 LVIS-Res101| 27.0| - 
 LVIS-Swin-B| 36.0| - 
 COCO-testdev-Res50 | 37.1| - 
 COCO-testdev-Res101 | 41.5| -
 COCO-testdev-Swin-B| 47.6| -
+COCO-testdev-Swin-L| 48.3| -
 
 ![](figure/visual.jpeg)
 
