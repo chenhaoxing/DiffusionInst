@@ -22,12 +22,19 @@ We hope our work could serve as a simple yet effective baseline, which could ins
 The installation instruction and usage are in [Getting Started with DiffusionInst](GETTING_STARTED.md).
 
 ## Model Performance
-Top1 linear evaluation accuracies on ImageNet1K:
-
-Batch size | 128| 256 | 512 | 1024 | 2048
+Method | Mask AP (1 step) | Mask AP (4 step) 
 --- |:---:|:---:
-SimCLR | 60.6 | 61.9 | 64.0 | 65.3 | 66.1 
-+MACL | 61.6  | 64.3 | 65.2 | 66.5 | 66.9 
+COCO-val-Res50 | 37.3| 37.5 
+COCO-val-Res101 | 41.0| 41.1 
+COCO-val-Swin-B| 46.6| 46.8
+COCO-val-Swin-L| 47.8| 47.8
+LVIS-Res50 | 22.3| - 
+LVIS-Res101| 27.0| - 
+LVIS-Swin-B| 36.0| - 
+COCO-testdev-Res50 | 37.1| - 
+COCO-testdev-Res101 | 41.5| -
+COCO-testdev-Swin-B| 47.6| -
+COCO-testdev-Swin-L| 48.3| -
 
 ![](figure/visual.jpeg)
 
