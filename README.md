@@ -15,6 +15,7 @@ We hope our work could serve as a simple yet effective baseline, which could ins
 ## Todo list:
 - [x] Release source code.
 - [x] Hyper-paramters tuning.
+- [x] Add Swin-Large backbone.
 - [ ] Adding directly filter denoising.
 
 
