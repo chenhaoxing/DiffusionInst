@@ -25,6 +25,7 @@ The installation instruction and usage are in [Getting Started with DiffusionIns
 
 ## Pre-trained Models
 We now provide pre-trained models for ResNet-50 and ResNet-101.
+
 [https://pan.baidu.com/s/1KEdjNY3CSXWp0VFwkhRKYg](https://pan.baidu.com/s/1KEdjNY3CSXWp0VFwkhRKYg), pwd: jhbv.
 
 ## Model Performance
