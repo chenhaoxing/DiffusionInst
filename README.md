@@ -22,6 +22,8 @@ We hope our work could serve as a simple yet effective baseline, which could ins
 ## Getting Started
 The installation instruction and usage are in [Getting Started with DiffusionInst](GETTING_STARTED.md).
 
+## Pre-trained Models
+
 ## Model Performance
 Method | Mask AP (1 step) | Mask AP (4 step) 
 --- |:---:|:---:
