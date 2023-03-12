@@ -23,10 +23,13 @@ We hope our work could serve as a simple yet effective baseline, which could ins
 ## Getting Started
 The installation instruction and usage are in [Getting Started with DiffusionInst](GETTING_STARTED.md).
 
-## Pre-trained Models
-We now provide pre-trained models for ResNet-50 and ResNet-101.
+## Trained Models
+We now provide trained models for ResNet-50 and ResNet-101.
 
 [https://pan.baidu.com/s/1KEdjNY3CSXWp0VFwkhRKYg](https://pan.baidu.com/s/1KEdjNY3CSXWp0VFwkhRKYg), pwd: jhbv.
+
+
+
 
 ## Model Performance
 Method | Mask AP (1 step) | Mask AP (4 step) 
