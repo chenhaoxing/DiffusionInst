@@ -16,7 +16,7 @@ We hope our work could serve as a simple yet effective baseline, which could ins
 - [x] Release source code.
 - [x] Hyper-paramters tuning.
 - [x] Add Swin-Large backbone.
-- [x] Release pre-trained models.
+- [x] Release trained models.
 - [ ] Adding directly filter denoising.
 
 
