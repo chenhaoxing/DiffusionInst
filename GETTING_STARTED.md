@@ -33,7 +33,7 @@ ln -s /path_to_lvis_dataset/lvis_v1_val.json datasets/lvis/lvis_v1_val.json
 
 DiffusionInst uses three backbones including ResNet-50, ResNet-101 and Swin-Base. The pretrained ResNet-50 model can be downloaded automatically by Detectron2. 
 
-[DiffusionDet](https://github.com/ShoufaChen/DiffusionDet) provide pretrained [ResNet-101](https://github.com/ShoufaChen/DiffusionInst/releases/download/v0.1/torchvision-R-101.pkl) and [Swin-Base](https://github.com/ShoufaChen/DiffusionInst/releases/download/v0.1/swin_base_patch4_window7_224_22k.pkl) which are compatible with Detectron2. Please download them to `DiffusionInst_ROOT/models/` before training.
+[DiffusionDet](https://github.com/ShoufaChen/DiffusionDet) provide pretrained [ResNet-101](https://github.com/ShoufaChen/DiffusionDet/releases/download/v0.1/torchvision-R-101.pkl) and [Swin-Base](https://github.com/ShoufaChen/DiffusionDet/releases/download/v0.1/swin_base_patch4_window7_224_22k.pkl) which are compatible with Detectron2. Please download them to `DiffusionInst_ROOT/models/` before training.
 
 1. Train DiffusionInst
 ```
