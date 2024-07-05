@@ -16,10 +16,8 @@ import weakref
 from typing import Any, Dict, List, Set
 import logging
 from collections import OrderedDict
-
 import torch
 from fvcore.nn.precise_bn import get_bn_modules
-
 import detectron2.utils.comm as comm
 from detectron2.utils.logger import setup_logger
 from detectron2.checkpoint import DetectionCheckpointer
