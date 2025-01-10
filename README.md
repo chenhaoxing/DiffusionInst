@@ -48,6 +48,11 @@ COCO-testdev-Swin-L| 48.3| -
 
 ![](figure/visual.jpeg)
 
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=chenhaoxing/DiffusionInst&type=Date)](https://star-history.com/#chenhaoxing/DiffusionInst&Date)
+
 ## Citing DiffusionInst
 
 If you use DiffusionInst in your research or wish to refer to the baseline results published here, please use the following BibTeX entry.
